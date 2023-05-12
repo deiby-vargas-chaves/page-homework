@@ -3,6 +3,7 @@ body{
     flex-direction: column;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
+    flex-wrap: wrap;
 }
 .header{
     background-color: #1F2937;
@@ -73,6 +74,7 @@ h2{
 height: 300px;
 gap: 52px;
 padding: 0 300px;
+
 }
 .text{
     display: flex;
