@@ -56,7 +56,8 @@ h1{
     width:300px;
     height: auto;
     display: flex;
-
+    border: 5px solid rgb(36, 156, 116);
+    border-radius: 15px;
 }
 
 h2{
